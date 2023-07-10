@@ -1,9 +1,9 @@
 ###############################################################################################################
 # BEGIN CHANGE BLOCK
 ################################################################################################################
-name: "Base Theme"
-title: "Base Theme"
-description: "Change this subtitle"
+name: "Digital Nomad Claire"
+title: "Digital Nomad Claire"
+description: "Remote worker, traveller, and digital nomad expert"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -27,7 +27,7 @@ authors:
     email: todo@change.com
     web: https://www.todo.change.com
     twitter: https://twitter.com/changeme
-    description: "TODO Change"
+    description: ""
 
 ###############################################################################################################
 # END CHANGE BLOCK

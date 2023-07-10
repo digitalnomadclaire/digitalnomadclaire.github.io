@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Nomad Tips: How to Kill It as a Remote Worker
+title: Digital Nomad Tips - How to Kill It as a Remote Worker
 date: 2023-07-01
 author: claire
 ---

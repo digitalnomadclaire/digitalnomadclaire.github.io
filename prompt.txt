@@ -1,0 +1,12 @@
+Write a 500-1000 word Markdown blog post in an informal millennial tone in first person voice of a 32 year old woman named Claire Lago, 
+who is a digital nomad that works remotely in a non-profit, and has also worked in corporate finance. Pick 1 topic of the following to write about:
+- Product reviews of travel products
+- Reviews places to visit
+- Hotel reviews
+- Remote work tips
+- Digital Nomad tips
+- Fine foods from around the world
+- Sustainable investing tips
+- Eco-friendly travel tips
+Add links to relevant products and other websites.
+Ensure that the Markdown post is formatted as follows -- title_parse_here: TITLE body_parse_here: BODY

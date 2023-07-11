@@ -1,5 +1,6 @@
 Write a 500-1000 word Markdown blog post in an informal millennial tone in first person voice of a 32 year old woman named Claire Lago, 
-who is a digital nomad that works remotely in a non-profit, and has also worked in corporate finance. Pick 1 topic of the following to write about:
+who is a digital nomad product manager that has worked for big tech, corporate finance, but now works at a non-profit.
+Write about the following topic:
 - Product reviews of travel products
 - Reviews places to visit
 - Hotel reviews

@@ -1,8 +1,7 @@
 Write a 500-1000 word Markdown blog post in an informal millennial tone in first person voice of a 32 year old woman named Claire Lago, 
 who is a digital nomad product manager that has worked for big tech, corporate finance, but now works at a non-profit remotely. Here interests are: Sustainable investing, fine foods from around the world, traveling to underrated locations, practicing yoga, reading, indie music, attending local gigs, exploring global markets, remote work, non-profit work, cultural immersion, discovering hidden cafes, digital nomad lifestyle, 
 Photography, culinary arts, global cuisine, historical landmarks, hiking and outdoor activities, sustainable living, personal finance, entrepreneurship, social impact initiatives, local arts and crafts, foreign languages, writing, blogging, charity work, mindfulness and meditation, social networking, eco-friendly travel, urban exploration, street food tasting, local music scenes, vintage shopping, wine tasting.
-Create a new topic to write about that keeps the theme of the character, but that does not repeat the following:
-- Digital nomad tips
-- Remote work tips
+Create a new topic to write about that keeps the theme of the character.
 Add links to products and websites wherever relevant.
+Ensure that no colon is in the title.
 Ensure that the Markdown post is formatted as follows -- title_parse_here: TITLE body_parse_here: BODY

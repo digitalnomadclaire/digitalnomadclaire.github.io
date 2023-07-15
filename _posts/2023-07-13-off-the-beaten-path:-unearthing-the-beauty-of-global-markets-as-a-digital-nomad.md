@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Off the Beaten Path: Unearthing the Beauty of Global Markets as a Digital Nomad
+title: Off the Beaten Path Unearthing the Beauty of Global Markets as a Digital Nomad
 date: 2023-07-13
 author: Claire Lago
 ---

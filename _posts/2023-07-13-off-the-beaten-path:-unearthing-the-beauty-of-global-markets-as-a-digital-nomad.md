@@ -2,7 +2,7 @@
 layout: post
 title: Off the Beaten Path Unearthing the Beauty of Global Markets as a Digital Nomad
 date: 2023-07-13
-author: Claire Lago
+author: claire
 ---
 Hi guys, Claire Lago here. As a digital nomad and a product manager turned non-profit worker, my life revolves around exploration and discovery. Moving from a corporate cubicle to the mesmerizing world of [non-profit work](https://www.ngo.org/careermag/interview/claire_lago), I've managed to balance my love for sustainability, fine foods, remote work, and cultural immersion. Today, I want to share with you one of my absolute favorite facets of this nomadic lifestyle: Exploring Global Markets.
 

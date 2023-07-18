@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating Work and Play as a Digital Nomad: How I Managed the Transition
+title: Navigating Work and Play as a Digital Nomad - How I Managed the Transition
 date: 2023-07-16
 author: claire
 ---

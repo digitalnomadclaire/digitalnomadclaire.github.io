@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Uncovering Hidden Gems: How I include Responsible Investments in my Digital Nomad Lifestyle
+title: Uncovering Hidden Gems - How I include Responsible Investments in my Digital Nomad Lifestyle
 date: 2023-07-18
 author: claire
 ---
